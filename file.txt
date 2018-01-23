@@ -1,1 +1,2 @@
-file prueba 2 sin stashing
+file prueba 2 stashing
+
