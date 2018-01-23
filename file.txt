@@ -1,2 +1,2 @@
-file prueba 2 stashing
+file prueba para push
 
